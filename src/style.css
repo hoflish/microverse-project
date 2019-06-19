@@ -1,0 +1,15 @@
+body{
+    width:100%;
+}
+
+#img-div{
+    justify-items: center;
+    width: 70%;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    height: auto;
+}
